@@ -2,7 +2,7 @@
 title: "Traffic Signal"
 date: 2021-02-02 12:00:00
 description: The first in a series of small projects, built for simplicity.
-featured_image: "images/3762648-green-traffic-signal-light-against-blue-sky.jpg/"
+featured_image: "images/3762648-green-traffic-signal-light-against-blue-sky.jpg"
 ---
 
 # Traffic Signal
