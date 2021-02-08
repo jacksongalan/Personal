@@ -1,32 +1,26 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About Jackson
+subtitle: Software developer, educator, and community organizer.
+description: The descript goes here.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Remote Educator
 
-We've packed Personal full of powerful features to help showcase your work:
+The students of New Orleans acquire web development skills under the tutelage...
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Precocious Pupil
 
-## Get Personal
+The tutor, yours truly, learned the craft of web development in an engineering immersive out-of-state. His friend succeeded in tech, and recommended Jackson follow suit. Twelve weeks of greuling JavaScript classes later, he found the strength to complete the program.
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+## Budding Developer
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+As a teacher, the students say he helps them learn. As a student, he would say the same.
+
+## Successful Engineer
+
+Jackson is looking to continue the journey of community-oriented development as a software engineer.
+
+## Expert Navigator
+
+You arrived this website for a reason. Navigate to [Contact](/contact) to share your thoughts on the matter.
